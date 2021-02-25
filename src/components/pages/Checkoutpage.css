@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.checkout__title{
+    font-size: 26px;
+    text-align: center;
+    margin: 70px 0px ;
+}
+.checkout__emptyMessage > p{
+    text-align: center;
+}
+.checkout__subTotal {
+    width: fit-content;
+    background-color: rgba(77, 81, 82, 0.247);
+    border-radius: 2px;
+    padding: 20px 50px ;
+    position: fixed;
+    top: 75px;
+    right: 20px;
+    width: 300px;
+}
+.checkout__subtotalCheckoutButton{
+     width: 100%;
+     max-width: 150px;
+     object-fit: contain;
+     background-color: rgb(0, 0, 0);
+     color: white;
+     text-transform: uppercase;
+     font-size: 20px;
+     margin-top: 10px;
+}
