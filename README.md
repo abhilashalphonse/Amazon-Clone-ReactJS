@@ -8,6 +8,7 @@ https://clone-e3da2.web.app/
 
 ## Captures
 ![Screenshot (97)](https://user-images.githubusercontent.com/73619282/109373948-e5695f80-787f-11eb-85ca-6d723ea11712.png)
+
 ![Screenshot (99)](https://user-images.githubusercontent.com/73619282/109373955-ec906d80-787f-11eb-8904-8fc5eee1b73c.png)
 
 
@@ -17,7 +18,7 @@ You can clone the repository using the following command on git Cli
 `gh repo clone abhilashalphonse/Amazon-Clone-ReactJS`
 
 
-Now, Install then dependencies:
+Now, Install the dependencies:
  
 `npm install   or  yarn install`
 
