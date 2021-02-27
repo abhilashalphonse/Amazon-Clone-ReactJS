@@ -14,17 +14,20 @@ https://clone-e3da2.web.app/
 ## Installation
 You can clone the repository using the following command on git Cli
 
-gh repo clone abhilashalphonse/Amazon-Clone-ReactJS
+`gh repo clone abhilashalphonse/Amazon-Clone-ReactJS`
+
 
 Now, Install then dependencies:
  
- npm install   or  yarn install 
+`npm install   or  yarn install`
+
  
 ## Available Scripts
 
 In the project directory, you can run:
 
-npm start
+`npm start`
+
 
 Runs the app in the development mode.
 
@@ -36,7 +39,7 @@ You will also see any lint errors in the console.
 
 ## Built with
 
-ReactJS
-Material UI
-Firebase
+- ReactJS
+- Material UI
+- Firebase
 
