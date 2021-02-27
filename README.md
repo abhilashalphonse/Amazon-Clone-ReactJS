@@ -7,8 +7,9 @@ A live demo of this  project can be found on the below URL.
 https://clone-e3da2.web.app/
 
 ## Captures
-https://user-images.githubusercontent.com/73619282/109373630-04ff8880-787e-11eb-81d6-a82c2769038b.png
-https://user-images.githubusercontent.com/73619282/109373650-2b252880-787e-11eb-8d80-7cb0efe6c5ee.png
+![Screenshot (97)](https://user-images.githubusercontent.com/73619282/109373948-e5695f80-787f-11eb-85ca-6d723ea11712.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/73619282/109373955-ec906d80-787f-11eb-8904-8fc5eee1b73c.png)
+
 
 ## Installation
 You can clone the repository using the following command on git Cli
